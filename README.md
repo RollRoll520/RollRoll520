@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RollRoll520/RollRoll520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+English | [简体中文](./README.zh-CN.md)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Roll.
+</p>
+<p align='center'>For enquiries, send email to :mailbox:`2083494128@qq.com`</p>
+
+<h1 align='center'><i>Nice to see you!</i></h1>
