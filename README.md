@@ -19,4 +19,4 @@ I'm Roll.
 </p>
 <p align='center'>For enquiries💬, send email to :mailbox:2083494128@qq.com</p>
 
-<h1 align='center'><i>😄Nice to see you!</i></h1>
+<h1 align='center'><i>Nice to meet you!</i></h1>
