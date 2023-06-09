@@ -17,6 +17,6 @@ English | [简体中文](./README.zh-CN.md)
 <p align='center'>
 I'm Roll.
 </p>
-<p align='center'>For enquiries, send email to :mailbox:`2083494128@qq.com`</p>
+<p align='center'>For enquiries💬, send email to :mailbox:2083494128@qq.com</p>
 
-<h1 align='center'><i>Nice to see you!</i></h1>
+<h1 align='center'><i>😄Nice to see you!</i></h1>
