@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-English | [简体中文](./README.zh-CN.md)
+<!-- English | [简体中文](./README.zh-CN.md) -->
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Roll.
